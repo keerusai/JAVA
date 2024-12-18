@@ -7,6 +7,14 @@ public class output {
             *println()=> whch prints the data into an output screen
         */
             System.out.println("hello");
+        //we can also give as print but it prints all the things at same line
+            System.out.print("hii");
+            System.out.print("how are you");
+
+        //\n=>it is also just like println only
+        System.out.print("hii\n");
+    }
+}   
         
     }
 }
